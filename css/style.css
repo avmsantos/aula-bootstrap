@@ -1,0 +1,64 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.img{
+    margin-left: 10px;
+}
+
+.navbar-collapse {
+    margin-left: 20px;
+    
+}
+
+.circulo {
+    border-radius: 50%;
+    border: 3px solid #151515;
+}
+
+.navbar {
+    background-color: #172735;
+    padding-bottom: 15px;
+    
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.quem-somos{
+    background-color: #D0D3D4;
+    color: #172735;
+}
+
+.rounded-circle {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.parceiros {
+    background-color: #B3B6B7;
+}
+
+.rodape{
+    background: #17202A;
+    color: white;
+}
+
+.rodape:hover{
+    color: aqua;
+}
+
+.margin-rodape {
+    padding-bottom: 10px;
+}
+
+.par {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.espaco {
+    padding-bottom: 20px;
+}
